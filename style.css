@@ -1,0 +1,23 @@
+.heading
+{
+font-size: 30px;
+}
+.Object_names
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+label
+{
+    font-size: 25px;
+}
+
+h1
+{
+    font-family: fantasy;
+    width: 50%;
+}
+body
+{
+background-color: aqua;
+}
